@@ -1,0 +1,10 @@
+C:\Users\Daniel Pelissari\Desktop\C#\Crud\Crud\obj\Debug\Crud.csprojResolveAssemblyReference.cache
+C:\Users\Daniel Pelissari\Desktop\C#\Crud\Crud\obj\Debug\Crud.Form1.resources
+C:\Users\Daniel Pelissari\Desktop\C#\Crud\Crud\obj\Debug\Crud.Properties.Resources.resources
+C:\Users\Daniel Pelissari\Desktop\C#\Crud\Crud\obj\Debug\Crud.csproj.GenerateResource.Cache
+C:\Users\Daniel Pelissari\Desktop\C#\Crud\Crud\obj\Debug\Crud.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Pelissari\Desktop\C#\Crud\Crud\bin\Debug\Crud.exe
+C:\Users\Daniel Pelissari\Desktop\C#\Crud\Crud\bin\Debug\Crud.pdb
+C:\Users\Daniel Pelissari\Desktop\C#\Crud\Crud\obj\Debug\Crud.exe
+C:\Users\Daniel Pelissari\Desktop\C#\Crud\Crud\obj\Debug\Crud.pdb
+C:\Users\Daniel Pelissari\Desktop\C#\Crud\Crud\bin\Debug\Crud.exe.config
